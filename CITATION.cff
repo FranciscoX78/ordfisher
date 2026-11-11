@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use ordfisher, please cite this software release and the relevant OPS/OFS methods papers."
+type: software
+title: "ordfisher: Ordinal Power and Fisher Spectra in Python"
+version: 1.0.0
+license: BSD-3-Clause
+authors:
+  - given-names: Giovanni
+    family-names: Campanini
+  - given-names: Fernando
+    family-names: Pose
+  - given-names: Carlos
+    family-names: Garcia
+  - given-names: Francisco O.
+    family-names: Redelico
+keywords:
+  - "ordinal patterns"
+  - "ordinal power spectrum"
+  - "ordinal Fisher spectrum"
+  - "Cayley graph"
+abstract: >-
+  A Python package for ordinal pattern distributions, the Ordinal Power Spectrum
+  and the Ordinal Fisher Spectrum on the adjacent-rank Cayley graph, including
+  reproducible numerical and rational-arithmetic examples.
+repository-code: "https://github.com/FranciscoX78/ordfisher"
