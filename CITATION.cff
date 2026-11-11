@@ -3,6 +3,7 @@ message: "If you use ordfisher, please cite this software release and the releva
 type: software
 title: "ordfisher: Ordinal Power and Fisher Spectra in Python"
 version: 1.0.0
+doi: 10.5281/zenodo.24139412
 license: BSD-3-Clause
 authors:
   - given-names: Giovanni
