@@ -135,9 +135,9 @@ The complete logistic sweep is computationally substantial. For a rapid check, u
 
 ## License and citation
 
-Released source code is prepared under the **BSD 3-Clause License** (see [`LICENSE`](LICENSE)). Software citation metadata is supplied in [`CITATION.cff`](CITATION.cff). **A DOI will only exist after an actual Zenodo deposit**; do not add an invented DOI to the manuscript. Please cite the relevant original scientific papers for OPS and OFS as well as any archived software release used in a study.
+Released source code is prepared under the **BSD 3-Clause License** (see [`LICENSE`](LICENSE)). Software citation metadata is supplied in [`CITATION.cff`](CITATION.cff). The public **v1.0.0 release is archived on Zenodo**: [DOI: 10.5281/zenodo.24139412](https://doi.org/10.5281/zenodo.24139412). When using the package, cite this versioned software release and the relevant original OPS/OFS scientific papers.
 
-The software authors are Giovanni Campanini, Fernando Pose, Carlos Garcia, and Francisco O. Redelico. The maintainer is **Francisco O. Redelico**. See [`AUTHORS.md`](AUTHORS.md), and the [AI-assistance disclosure](docs/ai-use.md). The final license and copyright attribution remain subject to team sign-off before public release.
+The software authors are Giovanni Campanini, Fernando Pose, Carlos Garcia, and Francisco O. Redelico. The maintainer is **Francisco O. Redelico**. See [`AUTHORS.md`](AUTHORS.md), and the [AI-assistance disclosure](docs/ai-use.md). Please check the [`LICENSE`](LICENSE) and [`AUTHORS.md`](AUTHORS.md) for the published software terms and author attributions.
 
 ## Independent ordinal-count validation
 
